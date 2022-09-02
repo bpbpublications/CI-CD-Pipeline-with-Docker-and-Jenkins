@@ -1,0 +1,15 @@
+---
+- hosts: devservers
+  become: true
+  vars:
+    nexus_artifact_url: ""
+  tasks:
+  - name: Download the package on the remote system
+    get_url:
+      url: "{{ nexus_artifact_url }}"
+      dest: /var/lib/tomcat9/webapps/ROOT.war
+
+  - name: Restart tomcat service on the system
+    systemd:
+      name: tomcat9
+      state: restarted
