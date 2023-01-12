@@ -1,4 +1,30 @@
-# Spring3Hibernate - A OpsTree Sample Maven based Java Application
+# CI/CD Pipeline with Docker and Jenkins
+
+A Practical Guide to Mastering Modern-day Software Development
+
+This is the repository for [CI/CD Pipeline with Docker and Jenkins
+](). 
+
+## About the Book
+‘CI/CD Pipeline with Docker and Jenkins’ is the right mix of narrative, concepts, and real-life implementation. The book focuses on the CI/CD maturity journey of a team from a DevOps perspective. 
+
+The book takes you on a CI/CD journey of a project, starting from identifying the challenges faced by the team and how the team uses CI as a first step to overcome the problems. Moving on, the book explains how the team matures via the Jenkins shared library and Dockerization. The later part of the book covers the next journey, where the DevOps team decides to introduce CD to mature the DevOps practices of the project further.  Here, the book explains how the DevOps team learns about the various implementations of CD and applies them via Jenkins. Given that there are multiple technologies to cover, the journey starts from the simplest one and slowly goes on to higher concepts ensuring that you follow the right learning path.
+
+To keep things in perspective, a sample project has been included with the book, and all the concepts of CI/CD are implemented in it. You can work with it, test out different scenarios, and can refer to them for your projects.
+
+## What You Will Learn
+•  Design a CI implementation plan in terms of Pre and Post Deployment integration checks.
+
+•  Learn how to run your CI/CD jobs in Docker containers.
+
+•  Understand how CI and CD work together end to end to achieve modern software delivery goals.
+
+•  Design and implement a very comprehensive CI process of any stack on any platform.
+
+•  Assess and identify the CD requirements of a project and architect the right CD solution. 
+
+
+## Spring3Hibernate - A OpsTree Sample Maven based Java Application
 
 The main goal of this awesome Java Webapp is to encourage people to dive deep in Java Application Architecture and how we can make delivery pipeline faster, easier and much reliable using **Continous Integration**.
 
