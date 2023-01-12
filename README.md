@@ -3,7 +3,7 @@
 A Practical Guide to Mastering Modern-day Software Development
 
 This is the repository for [CI/CD Pipeline with Docker and Jenkins
-](). 
+](https://bpbonline.com/products/ci-cd-pipeline-with-docker-and-jenkins-1). 
 
 ## About the Book
 ‘CI/CD Pipeline with Docker and Jenkins’ is the right mix of narrative, concepts, and real-life implementation. The book focuses on the CI/CD maturity journey of a team from a DevOps perspective. 
